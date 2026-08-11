@@ -27,25 +27,16 @@ Desenvolver uma solução de Business Intelligence capaz de apresentar uma visã
 
 Apresenta uma visão geral da performance do negócio, permitindo identificar rapidamente os principais indicadores e tendências.
 
-![Visão Executiva](imagens/visao-executiva.png)
 
 ### 2. Performance de Produtos
 
 Análise da performance dos produtos comercializados, permitindo identificar produtos de maior relevância para o faturamento e participação no negócio.
 
-![Performance de Produtos](imagens/performance-produtos.png)
 
 ### 3. Performance Operacional
 
 Análise da operação considerando distribuidores, fábricas e demais indicadores relacionados à performance operacional.
 
-![Performance Operacional](imagens/performance-operacional.png)
-
-### 4. Análise Detalhada
-
-Visão complementar para exploração dos dados por diferentes dimensões e filtros, permitindo análises mais específicas do negócio.
-
-![Análise Detalhada](imagens/analise-detalhada.png)
 
 ---
 
@@ -93,7 +84,7 @@ A solução permite responder perguntas de negócio como:
 ## 📁 Estrutura do Projeto
 
 ```text
-powerbi-dashboard-farmacia-varejo/
+powerbi-dashboard-industria-farmaceutica/
 │
 ├── README.md
 │
@@ -104,7 +95,7 @@ powerbi-dashboard-farmacia-varejo/
 │   ├── visao-executiva.png
 │   ├── performance-produtos.png
 │   ├── performance-operacional.png
-│   └── analise-detalhada.png
+│  
 │
 └── dados/
     └── README.md
