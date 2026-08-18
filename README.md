@@ -81,34 +81,12 @@ A solução permite responder perguntas de negócio como:
 
 ---
 
-## 📁 Estrutura do Projeto
-
-```text
-powerbi-dashboard-industria-farmaceutica/
-│
-├── README.md
-│
-├── dashboard/
-│   └── farmacia_varejo.pbix
-│
-├── imagens/
-│   ├── visao-executiva.png
-│   ├── performance-produtos.png
-│   ├── performance-operacional.png
-│  
-│
-└── dados/
-    └── README.md
-```
-
----
 
 ## 🔐 Dados
 
 Os dados utilizados neste projeto possuem finalidade exclusivamente demonstrativa e foram estruturados para representar um cenário de análise de uma indústria farmacêutica.
 
 Nenhum dado confidencial ou informação pessoal é disponibilizado neste repositório.
-
 ---
 
 ## 💡 Insights de Negócio
